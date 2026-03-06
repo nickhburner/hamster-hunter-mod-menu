@@ -12,7 +12,7 @@ A full mod menu for [Hamster Hunter](https://store.steampowered.com/app/2726490/
 - Full FPV drone section (collapsible): thrust, strafe, vertical speed, acceleration, deceleration, and pitch/yaw hotkeys
 
 **Quality of life:**
-- Waits for the game to launch on its own — no need to open in a specific order
+- Waits for the game to launch on its own, no need to open in a specific order
 - Automatically reconnects if the game is closed and reopened without restarting the menu
 - Hover over any `?` icon for a description of what that value does
 - Opacity slider to keep the menu visible without blocking your screen
@@ -21,8 +21,8 @@ A full mod menu for [Hamster Hunter](https://store.steampowered.com/app/2726490/
 
 ## How to use
 
-1. Open **HH-Mod-Menu.exe** (run as Administrator — might be required for memory access)
-2. Launch **Hamster Hunter** — the menu will attach automatically
+1. Open **HH-Mod-Menu.exe** (run as Administrator, might be required for memory access)
+2. Launch **Hamster Hunter** - the menu will attach automatically
 3. Enter a value in any field and click **Confirm** to apply it
 
 **Notes on Info and Blocks:**
