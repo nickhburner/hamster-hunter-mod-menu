@@ -60,7 +60,7 @@ The full source code is included in this repository (`HH-Mod-Menu.py`) so you ca
 
 To run from source you will need:
 
-1. [Python 3.10 or newer](https://www.python.org/downloads/) — check "Add Python to PATH" during install
+1. [Python 3.10 or newer](https://www.python.org/downloads/) | check "Add Python to PATH" during install
 2. Open a terminal in the folder and run:
 
 ```
